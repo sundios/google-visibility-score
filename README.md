@@ -9,7 +9,7 @@ Is a metric that tell us how visible our site is on Search Engines based on a sp
 
 #### How is it calculated?
 
-Rank Score is calculated by adding up the total search volume of a keyword set and then checking how well we are ranking for each one of those keyword using our Google search console data. After that we calculate the search volume we should get based on our CTR model. 
+Visibility Score is calculated by adding up the total search volume of a keyword set and then checking how well we are ranking for each one of those keyword using our Google search console data. After that we calculate the search volume we should get based on our CTR model. 
 
 Once we have the added up search volume of all keywords we actually rank, we use the current expected total search volume (amount of volume from keywords we are actually ranking) Divided by Max possible Search Volume.
 
