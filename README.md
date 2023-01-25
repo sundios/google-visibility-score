@@ -43,7 +43,7 @@ To use this script and get your own visibility socre, there are 3 important step
 
 1. **Get Api Keys**:  In order to get our Search console data we need to make sure we have our API Keys saved on the `/google-visibilty-score/api_keys` folder under the name `client_secrets.json`
 
-To get they key please follow this tutorial.
+To get they key please follow this [link](https://developers.google.com/webmaster-tools/search-console-api/v1/configure).
 
 2. **Run oauth.py**: The next step is to authorize and get the `authorizedcreds.dat` file. To do this we should go to `/google-visibilty-score/scripts` and run the oatuh.py file. 
 
